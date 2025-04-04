@@ -1,6 +1,7 @@
 # 🥋 Dojô de Código
 
-O **Dojô de Código** é uma iniciativa colaborativa, gratuita e aberta para desenvolvedores que desejam praticar suas habilidades de programação de forma leve, divertida e em grupo.
+O **Dojô de Código**, inspirado no conceito de [*Coding Dojo* 🔗](https://pt.wikipedia.org/wiki/Coding_Dojo), é uma iniciativa colaborativa, gratuita e aberta para desenvolvedores que desejam praticar suas habilidades de programação de forma leve, divertida e em grupo.
+
 
 Nos inspiramos no formato clássico dos **Coding Dojos**, com revezamento entre **piloto** e **copiloto**, resolvendo desafios reais de programação (katas), com tempo limitado e foco total na **prática e na evolução conjunta**.
 
