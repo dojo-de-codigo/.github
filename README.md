@@ -1,4 +1,4 @@
-# 🔮 Dojô de Código
+# 🥋 Dojô de Código
 
 O **Dojô de Código** é uma iniciativa colaborativa, gratuita e aberta para desenvolvedores que desejam praticar suas habilidades de programação de forma leve, divertida e em grupo.
 
